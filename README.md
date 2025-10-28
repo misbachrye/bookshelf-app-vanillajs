@@ -26,6 +26,8 @@ Aplikasi frontend sederhana untuk mengelola daftar buku pribadi. Pengguna dapat 
 ├── style.css    # Styling CSS
 └── main.js      # Logika JavaScript aplikasi
 
+```
+
 
 ## Cara Menjalankan
 
