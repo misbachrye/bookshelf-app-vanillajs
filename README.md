@@ -18,7 +18,9 @@ Aplikasi frontend sederhana untuk mengelola daftar buku pribadi. Pengguna dapat 
 * JavaScript (Vanilla)
 * Web Storage API (Local Storage)
 
-## Struktur Folder
+##  Struktur Proyek
+
+```bash
 .
 ├── index.html   # Halaman utama aplikasi
 ├── style.css    # Styling CSS
