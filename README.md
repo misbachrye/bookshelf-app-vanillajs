@@ -18,6 +18,13 @@ Aplikasi frontend sederhana untuk mengelola daftar buku pribadi. Pengguna dapat 
 * JavaScript (Vanilla)
 * Web Storage API (Local Storage)
 
+## Struktur Folder
+.
+├── index.html   # Halaman utama aplikasi
+├── style.css    # Styling CSS
+└── main.js      # Logika JavaScript aplikasi
+
+
 ## Cara Menjalankan
 
 1.  *Clone* repositori ini atau unduh *source code*-nya.
